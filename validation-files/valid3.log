@@ -1,0 +1,100 @@
+[2021-07-27 14:07:32] [valid] [valid] First sentence's tokens as scored:
+[2021-07-27 14:07:32] [valid] DefaultVocab keeps original segments for scoring
+[2021-07-27 14:07:32] [valid] [valid]   Hyp: is that means it every day when you wake up in the morning you have to decide what kind of person
+[2021-07-27 14:07:32] [valid] [valid]   Ref: is meant to indicate we get to we don't inherit an identity we get to invent it and we get to re inve
+nt ourselves as often as we like and that means that every day when you wake up in the morning you have to decide what kind of person
+[2021-07-27 14:07:32] [valid] References contain unknown word, metric scores may be inaccurate
+[2021-07-27 14:07:35] [valid] Ep. 13 : Up. 10000 : bleu : 5.39521 : new best
+[2021-07-27 14:07:37] [valid] Ep. 13 : Up. 10000 : cross-entropy : 109.939 : new best
+[2021-07-27 14:23:57] [valid] Ep. 26 : Up. 20000 : bleu : 12.3198 : new best
+[2021-07-27 14:23:57] [valid] Ep. 26 : Up. 20000 : cross-entropy : 128.567 : stalled 1 times (last best: 109.939)
+[2021-07-27 14:40:17] [valid] Ep. 38 : Up. 30000 : bleu : 19.4507 : new best
+[2021-07-27 14:40:17] [valid] Ep. 38 : Up. 30000 : cross-entropy : 141.504 : stalled 2 times (last best: 109.939)
+[2021-07-27 14:56:38] [valid] Ep. 51 : Up. 40000 : bleu : 21.8308 : new best
+[2021-07-27 14:56:38] [valid] Ep. 51 : Up. 40000 : cross-entropy : 171.327 : stalled 3 times (last best: 109.939)
+[2021-07-27 15:13:00] [valid] Ep. 63 : Up. 50000 : bleu : 25.183 : new best
+[2021-07-27 15:13:00] [valid] Ep. 63 : Up. 50000 : cross-entropy : 187.145 : stalled 4 times (last best: 109.939)
+[2021-07-27 15:29:19] [valid] Ep. 76 : Up. 60000 : bleu : 24.4715 : stalled 1 times (last best: 25.183)
+[2021-07-27 15:29:20] [valid] Ep. 76 : Up. 60000 : cross-entropy : 203.738 : stalled 5 times (last best: 109.939)
+[2021-07-27 15:45:40] [valid] Ep. 88 : Up. 70000 : bleu : 29.0557 : new best
+[2021-07-27 15:45:40] [valid] Ep. 88 : Up. 70000 : cross-entropy : 212.353 : stalled 6 times (last best: 109.939)
+[2021-07-27 16:02:00] [valid] Ep. 101 : Up. 80000 : bleu : 26.896 : stalled 1 times (last best: 29.0557)
+[2021-07-27 16:02:00] [valid] Ep. 101 : Up. 80000 : cross-entropy : 222.474 : stalled 7 times (last best: 109.939)
+[2021-07-27 16:18:22] [valid] Ep. 113 : Up. 90000 : bleu : 29.7481 : new best
+[2021-07-27 16:18:22] [valid] Ep. 113 : Up. 90000 : cross-entropy : 226.379 : stalled 8 times (last best: 109.939)
+[2021-07-27 16:34:41] [valid] Ep. 126 : Up. 100000 : bleu : 29.4403 : stalled 1 times (last best: 29.7481)
+[2021-07-27 16:34:41] [valid] Ep. 126 : Up. 100000 : cross-entropy : 230.584 : stalled 9 times (last best: 109.939)
+[2021-07-27 16:51:00] [valid] Ep. 138 : Up. 110000 : bleu : 27.9579 : stalled 2 times (last best: 29.7481)
+[2021-07-27 16:51:00] [valid] Ep. 138 : Up. 110000 : cross-entropy : 234.761 : stalled 10 times (last best: 109.939)
+[2021-07-27 17:07:19] [valid] Ep. 151 : Up. 120000 : bleu : 27.9533 : stalled 3 times (last best: 29.7481)
+[2021-07-27 17:07:19] [valid] Ep. 151 : Up. 120000 : cross-entropy : 238.994 : stalled 11 times (last best: 109.939)
+[2021-07-27 17:23:38] [valid] Ep. 163 : Up. 130000 : bleu : 30.5785 : new best
+[2021-07-27 17:23:38] [valid] Ep. 163 : Up. 130000 : cross-entropy : 242.412 : stalled 12 times (last best: 109.939)
+[2021-07-27 17:39:58] [valid] Ep. 176 : Up. 140000 : bleu : 28.7628 : stalled 1 times (last best: 30.5785)
+[2021-07-27 17:39:58] [valid] Ep. 176 : Up. 140000 : cross-entropy : 243.044 : stalled 13 times (last best: 109.939)
+[2021-07-27 17:56:16] [valid] Ep. 188 : Up. 150000 : bleu : 29.9403 : stalled 2 times (last best: 30.5785)
+[2021-07-27 17:56:16] [valid] Ep. 188 : Up. 150000 : cross-entropy : 244.835 : stalled 14 times (last best: 109.939)
+[2021-07-27 18:12:34] [valid] Ep. 201 : Up. 160000 : bleu : 30.0692 : stalled 3 times (last best: 30.5785)
+[2021-07-27 18:12:35] [valid] Ep. 201 : Up. 160000 : cross-entropy : 248.573 : stalled 15 times (last best: 109.939)
+[2021-07-27 18:28:53] [valid] Ep. 214 : Up. 170000 : bleu : 30.0473 : stalled 4 times (last best: 30.5785)
+[2021-07-27 18:28:53] [valid] Ep. 214 : Up. 170000 : cross-entropy : 249.86 : stalled 16 times (last best: 109.939)
+[2021-07-27 18:45:13] [valid] Ep. 226 : Up. 180000 : bleu : 28.3242 : stalled 5 times (last best: 30.5785)
+[2021-07-27 18:45:13] [valid] Ep. 226 : Up. 180000 : cross-entropy : 254.113 : stalled 17 times (last best: 109.939)
+[2021-07-27 19:01:33] [valid] Ep. 239 : Up. 190000 : bleu : 31.3386 : new best
+[2021-07-27 19:01:33] [valid] Ep. 239 : Up. 190000 : cross-entropy : 252.702 : stalled 18 times (last best: 109.939)
+[2021-07-27 19:17:53] [valid] Ep. 251 : Up. 200000 : bleu : 29.7287 : stalled 1 times (last best: 31.3386)
+[2021-07-27 19:17:54] [valid] Ep. 251 : Up. 200000 : cross-entropy : 256.822 : stalled 19 times (last best: 109.939)
+[2021-07-27 19:34:12] [valid] Ep. 264 : Up. 210000 : bleu : 31.3163 : stalled 2 times (last best: 31.3386)
+[2021-07-27 19:34:13] [valid] Ep. 264 : Up. 210000 : cross-entropy : 255.648 : stalled 20 times (last best: 109.939)
+[2021-07-27 19:50:31] [valid] Ep. 276 : Up. 220000 : bleu : 28.7351 : stalled 3 times (last best: 31.3386)
+[2021-07-27 19:50:31] [valid] Ep. 276 : Up. 220000 : cross-entropy : 260.608 : stalled 21 times (last best: 109.939)
+[2021-07-27 20:06:50] [valid] Ep. 289 : Up. 230000 : bleu : 30.1466 : stalled 4 times (last best: 31.3386)
+[2021-07-27 20:06:51] [valid] Ep. 289 : Up. 230000 : cross-entropy : 264.121 : stalled 22 times (last best: 109.939)
+[2021-07-27 20:23:09] [valid] Ep. 301 : Up. 240000 : bleu : 29.5729 : stalled 5 times (last best: 31.3386)
+[2021-07-27 20:23:09] [valid] Ep. 301 : Up. 240000 : cross-entropy : 261.829 : stalled 23 times (last best: 109.939)
+[2021-07-27 20:39:27] [valid] Ep. 314 : Up. 250000 : bleu : 29.7137 : stalled 6 times (last best: 31.3386)
+[2021-07-27 20:39:28] [valid] Ep. 314 : Up. 250000 : cross-entropy : 261.946 : stalled 24 times (last best: 109.939)
+[2021-07-27 20:55:47] [valid] Ep. 326 : Up. 260000 : bleu : 31.0126 : stalled 7 times (last best: 31.3386)
+[2021-07-27 20:55:47] [valid] Ep. 326 : Up. 260000 : cross-entropy : 262.461 : stalled 25 times (last best: 109.939)
+[2021-07-27 21:12:07] [valid] Ep. 339 : Up. 270000 : bleu : 30.5476 : stalled 8 times (last best: 31.3386)
+[2021-07-27 21:12:08] [valid] Ep. 339 : Up. 270000 : cross-entropy : 268.597 : stalled 26 times (last best: 109.939)
+[2021-07-27 21:28:28] [valid] Ep. 351 : Up. 280000 : bleu : 31.4702 : new best
+[2021-07-27 21:28:29] [valid] Ep. 351 : Up. 280000 : cross-entropy : 265.678 : stalled 27 times (last best: 109.939)
+[2021-07-27 21:44:48] [valid] Ep. 364 : Up. 290000 : bleu : 28.687 : stalled 1 times (last best: 31.4702)
+[2021-07-27 21:44:48] [valid] Ep. 364 : Up. 290000 : cross-entropy : 269.158 : stalled 28 times (last best: 109.939)
+[2021-07-27 22:01:09] [valid] Ep. 376 : Up. 300000 : bleu : 30.6547 : stalled 2 times (last best: 31.4702)
+[2021-07-27 22:01:09] [valid] Ep. 376 : Up. 300000 : cross-entropy : 271.452 : stalled 29 times (last best: 109.939)
+[2021-07-27 22:17:29] [valid] Ep. 389 : Up. 310000 : bleu : 29.7705 : stalled 3 times (last best: 31.4702)
+[2021-07-27 22:17:29] [valid] Ep. 389 : Up. 310000 : cross-entropy : 269.989 : stalled 30 times (last best: 109.939)
+[2021-07-27 22:33:49] [valid] Ep. 402 : Up. 320000 : bleu : 31.1789 : stalled 4 times (last best: 31.4702)
+[2021-07-27 22:33:49] [valid] Ep. 402 : Up. 320000 : cross-entropy : 271.175 : stalled 31 times (last best: 109.939)
+[2021-07-27 22:50:11] [valid] Ep. 414 : Up. 330000 : bleu : 31.689 : new best
+[2021-07-27 22:50:12] [valid] Ep. 414 : Up. 330000 : cross-entropy : 271.086 : stalled 32 times (last best: 109.939)
+[2021-07-27 23:06:31] [valid] Ep. 427 : Up. 340000 : bleu : 30.8777 : stalled 1 times (last best: 31.689)
+[2021-07-27 23:06:31] [valid] Ep. 427 : Up. 340000 : cross-entropy : 275.808 : stalled 33 times (last best: 109.939)
+[2021-07-27 23:22:48] [valid] Ep. 439 : Up. 350000 : bleu : 31.0346 : stalled 2 times (last best: 31.689)
+[2021-07-27 23:22:48] [valid] Ep. 439 : Up. 350000 : cross-entropy : 275.405 : stalled 34 times (last best: 109.939)
+[2021-07-27 23:39:09] [valid] Ep. 452 : Up. 360000 : bleu : 32.7582 : new best
+[2021-07-27 23:39:09] [valid] Ep. 452 : Up. 360000 : cross-entropy : 274.164 : stalled 35 times (last best: 109.939)
+[2021-07-27 23:55:27] [valid] Ep. 464 : Up. 370000 : bleu : 31.3323 : stalled 1 times (last best: 32.7582)
+[2021-07-27 23:55:28] [valid] Ep. 464 : Up. 370000 : cross-entropy : 277.156 : stalled 36 times (last best: 109.939)
+[2021-07-28 00:11:48] [valid] Ep. 477 : Up. 380000 : bleu : 30.7982 : stalled 2 times (last best: 32.7582)
+[2021-07-28 00:11:48] [valid] Ep. 477 : Up. 380000 : cross-entropy : 278.923 : stalled 37 times (last best: 109.939)
+[2021-07-28 00:28:08] [valid] Ep. 489 : Up. 390000 : bleu : 30.0909 : stalled 3 times (last best: 32.7582)
+[2021-07-28 00:28:09] [valid] Ep. 489 : Up. 390000 : cross-entropy : 281.081 : stalled 38 times (last best: 109.939)
+[2021-07-28 00:44:29] [valid] Ep. 502 : Up. 400000 : bleu : 30.8297 : stalled 4 times (last best: 32.7582)
+[2021-07-28 00:44:29] [valid] Ep. 502 : Up. 400000 : cross-entropy : 277.319 : stalled 39 times (last best: 109.939)
+[2021-07-28 01:00:48] [valid] Ep. 514 : Up. 410000 : bleu : 28.6014 : stalled 5 times (last best: 32.7582)
+[2021-07-28 01:00:48] [valid] Ep. 514 : Up. 410000 : cross-entropy : 278.882 : stalled 40 times (last best: 109.939)
+[2021-07-28 01:17:06] [valid] Ep. 527 : Up. 420000 : bleu : 28.226 : stalled 6 times (last best: 32.7582)
+[2021-07-28 01:17:07] [valid] Ep. 527 : Up. 420000 : cross-entropy : 282.607 : stalled 41 times (last best: 109.939)
+[2021-07-28 01:33:26] [valid] Ep. 539 : Up. 430000 : bleu : 29.3302 : stalled 7 times (last best: 32.7582)
+[2021-07-28 01:33:26] [valid] Ep. 539 : Up. 430000 : cross-entropy : 279.499 : stalled 42 times (last best: 109.939)
+[2021-07-28 01:49:45] [valid] Ep. 552 : Up. 440000 : bleu : 30.9566 : stalled 8 times (last best: 32.7582)
+[2021-07-28 01:49:46] [valid] Ep. 552 : Up. 440000 : cross-entropy : 281.331 : stalled 43 times (last best: 109.939)
+[2021-07-28 02:06:16] [valid] Ep. 564 : Up. 450000 : bleu : 28.3754 : stalled 9 times (last best: 32.7582)
+[2021-07-28 02:06:16] [valid] Ep. 564 : Up. 450000 : cross-entropy : 286.787 : stalled 44 times (last best: 109.939)
+[2021-07-28 02:22:36] [valid] Ep. 577 : Up. 460000 : bleu : 31.2353 : stalled 10 times (last best: 32.7582)
+[2021-07-28 02:22:37] [valid] Ep. 577 : Up. 460000 : cross-entropy : 286.856 : stalled 45 times (last best: 109.939)
+[2021-07-28 02:22:48] [valid] Ep. 577 : Up. 460006 : bleu : 31.3356 : stalled 11 times (last best: 32.7582)
+[2021-07-28 02:22:48] [valid] Ep. 577 : Up. 460006 : cross-entropy : 286.025 : stalled 46 times (last best: 109.939)
