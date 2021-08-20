@@ -1,0 +1,78 @@
+[2021-08-13 01:48:36] [valid] References contain unknown word, metric scores may be inaccurate
+[2021-08-13 01:48:36] [valid] [valid] First sentence's tokens as scored:
+[2021-08-13 01:48:36] [valid] DefaultVocab keeps original segments for scoring
+[2021-08-13 01:48:36] [valid] [valid]   Hyp: in the lab as the u of the u s is at the u of you see a new all of a new sudden the world is a cell in the cell and the u of the world of the world and you are in the u s of the u s in the world and the u u s of the u the u s the u s is the u s is in the u s of the u in the u in the u and in the u s of the u s of the u s is the u s and the u s of the u s is in the u in the u s is in the u in the u s of the u s of the u s of the u s and in the u s is in the u s of the u s is in the u in the u in the u s is the u s is the u s and in the u s is the u in the u in the u s is in the u and the u s is the
+[2021-08-13 01:48:36] [valid] [valid]   Ref: in the <unk> as the <unk> <unk> <unk> of <unk> at the <unk> p you see new <unk> <unk> <unk> a <unk> <unk> <unk> <unk> <unk> <unk> <unk> er <unk> <unk> of all the <unk> in the world <unk> <unk> of <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> and the <unk> <unk> <unk> er is the <unk> of <unk> <unk> for <unk> <unk> <unk>
+[2021-08-13 01:48:58] [valid] Ep. 193 : Up. 5000 : bleu : 2.68647 : new best
+[2021-08-13 01:48:59] [valid] Ep. 193 : Up. 5000 : cross-entropy : 56.5525 : new best
+[2021-08-13 02:35:27] [valid] Ep. 385 : Up. 10000 : bleu : 0.720355 : stalled 1 times (last best: 2.68647)
+[2021-08-13 02:35:27] [valid] Ep. 385 : Up. 10000 : cross-entropy : 41.1285 : new best
+[2021-08-13 03:21:44] [valid] Ep. 577 : Up. 15000 : bleu : 0.0107694 : stalled 2 times (last best: 2.68647)
+[2021-08-13 03:21:45] [valid] Ep. 577 : Up. 15000 : cross-entropy : 33.7475 : new best
+[2021-08-13 04:08:06] [valid] Ep. 770 : Up. 20000 : bleu : 0.00504902 : stalled 3 times (last best: 2.68647)
+[2021-08-13 04:08:07] [valid] Ep. 770 : Up. 20000 : cross-entropy : 31.3306 : new best
+[2021-08-13 04:54:27] [valid] Ep. 962 : Up. 25000 : bleu : 0.00468369 : stalled 4 times (last best: 2.68647)
+[2021-08-13 04:54:28] [valid] Ep. 962 : Up. 25000 : cross-entropy : 31.1779 : new best
+[2021-08-13 05:40:46] [valid] Ep. 1154 : Up. 30000 : bleu : 0.00390113 : stalled 5 times (last best: 2.68647)
+[2021-08-13 05:40:47] [valid] Ep. 1154 : Up. 30000 : cross-entropy : 30.7126 : new best
+[2021-08-13 06:27:03] [valid] Ep. 1347 : Up. 35000 : bleu : 0.0159985 : stalled 6 times (last best: 2.68647)
+[2021-08-13 06:27:04] [valid] Ep. 1347 : Up. 35000 : cross-entropy : 29.7607 : new best
+[2021-08-13 07:13:27] [valid] Ep. 1539 : Up. 40000 : bleu : 0.0865052 : stalled 7 times (last best: 2.68647)
+[2021-08-13 07:13:28] [valid] Ep. 1539 : Up. 40000 : cross-entropy : 28.834 : new best
+[2021-08-13 07:59:40] [valid] Ep. 1731 : Up. 45000 : bleu : 1.27619 : stalled 8 times (last best: 2.68647)
+[2021-08-13 07:59:41] [valid] Ep. 1731 : Up. 45000 : cross-entropy : 29.4608 : stalled 1 times (last best: 28.834)
+[2021-08-13 08:46:11] [valid] Ep. 1924 : Up. 50000 : bleu : 2.38888 : stalled 9 times (last best: 2.68647)
+[2021-08-13 08:46:11] [valid] Ep. 1924 : Up. 50000 : cross-entropy : 29.6982 : stalled 2 times (last best: 28.834)
+[2021-08-13 09:32:32] [valid] Ep. 2116 : Up. 55000 : bleu : 1.97455 : stalled 10 times (last best: 2.68647)
+[2021-08-13 09:32:32] [valid] Ep. 2116 : Up. 55000 : cross-entropy : 29.2392 : stalled 3 times (last best: 28.834)
+[2021-08-13 14:41:20] [valid] References contain unknown word, metric scores may be inaccurate
+[2021-08-13 14:41:20] [valid] [valid] First sentence's tokens as scored:
+[2021-08-13 14:41:20] [valid] DefaultVocab keeps original segments for scoring
+[2021-08-13 14:41:20] [valid] [valid]   Hyp: around home and my home home in a billion billion percent of cold was probably he saw it on the news this country all over the second country as the largest sixties in this way around this was one of the east around
+[2021-08-13 14:41:20] [valid] [valid]   Ref: around <unk> in my home in <unk> a billion <unk> of coal <unk> was <unk> you probably saw it on the news this all over the country is the second largest waste stream in america this happened around <unk> one of the coal <unk> <unk> around <unk> was this one
+[2021-08-13 14:41:31] [valid] Ep. 193 : Up. 5000 : bleu : 25.0511 : new best
+[2021-08-13 14:41:32] [valid] Ep. 193 : Up. 5000 : cross-entropy : 160.546 : new best
+[2021-08-13 15:28:13] [valid] Ep. 385 : Up. 10000 : bleu : 35.1399 : new best
+[2021-08-13 15:28:14] [valid] Ep. 385 : Up. 10000 : cross-entropy : 154.917 : new best
+[2021-08-13 16:14:48] [valid] Ep. 577 : Up. 15000 : bleu : 33.289 : stalled 1 times (last best: 35.1399)
+[2021-08-13 16:14:49] [valid] Ep. 577 : Up. 15000 : cross-entropy : 146.932 : new best
+[2021-08-13 17:01:27] [valid] Ep. 770 : Up. 20000 : bleu : 29.4623 : stalled 2 times (last best: 35.1399)
+[2021-08-13 17:01:28] [valid] Ep. 770 : Up. 20000 : cross-entropy : 140.058 : new best
+[2021-08-13 17:47:56] [valid] Ep. 962 : Up. 25000 : bleu : 33.2712 : stalled 3 times (last best: 35.1399)
+[2021-08-13 17:47:57] [valid] Ep. 962 : Up. 25000 : cross-entropy : 138.894 : new best
+[2021-08-13 18:34:31] [valid] Ep. 1154 : Up. 30000 : bleu : 34.1517 : stalled 4 times (last best: 35.1399)
+[2021-08-13 18:34:32] [valid] Ep. 1154 : Up. 30000 : cross-entropy : 138.203 : new best
+[2021-08-13 19:21:05] [valid] Ep. 1347 : Up. 35000 : bleu : 37.1378 : new best
+[2021-08-13 19:21:06] [valid] Ep. 1347 : Up. 35000 : cross-entropy : 138.23 : stalled 1 times (last best: 138.203)
+[2021-08-13 20:07:39] [valid] Ep. 1539 : Up. 40000 : bleu : 37.7824 : new best
+[2021-08-13 20:07:40] [valid] Ep. 1539 : Up. 40000 : cross-entropy : 137.91 : new best
+[2021-08-13 20:54:13] [valid] Ep. 1731 : Up. 45000 : bleu : 38.6719 : new best
+[2021-08-13 20:54:14] [valid] Ep. 1731 : Up. 45000 : cross-entropy : 137.847 : new best
+[2021-08-13 21:40:44] [valid] Ep. 1924 : Up. 50000 : bleu : 38.6287 : stalled 1 times (last best: 38.6719)
+[2021-08-13 21:40:46] [valid] Ep. 1924 : Up. 50000 : cross-entropy : 137.819 : new best
+[2021-08-13 22:27:06] [valid] Ep. 2116 : Up. 55000 : bleu : 38.6766 : new best
+[2021-08-13 22:27:06] [valid] Ep. 2116 : Up. 55000 : cross-entropy : 138.128 : stalled 1 times (last best: 137.819)
+[2021-08-13 23:13:39] [valid] Ep. 2308 : Up. 60000 : bleu : 38.6437 : stalled 1 times (last best: 38.6766)
+[2021-08-13 23:13:40] [valid] Ep. 2308 : Up. 60000 : cross-entropy : 138.263 : stalled 2 times (last best: 137.819)
+[2021-08-14 00:00:05] [valid] Ep. 2500 : Up. 65000 : bleu : 39.1235 : new best
+[2021-08-14 00:00:05] [valid] Ep. 2500 : Up. 65000 : cross-entropy : 138.656 : stalled 3 times (last best: 137.819)
+[2021-08-14 00:46:37] [valid] Ep. 2693 : Up. 70000 : bleu : 38.7754 : stalled 1 times (last best: 39.1235)
+[2021-08-14 00:46:37] [valid] Ep. 2693 : Up. 70000 : cross-entropy : 138.458 : stalled 4 times (last best: 137.819)
+[2021-08-14 01:32:59] [valid] Ep. 2885 : Up. 75000 : bleu : 38.9044 : stalled 2 times (last best: 39.1235)
+[2021-08-14 01:32:59] [valid] Ep. 2885 : Up. 75000 : cross-entropy : 138.023 : stalled 5 times (last best: 137.819)
+[2021-08-14 02:19:32] [valid] Ep. 3077 : Up. 80000 : bleu : 38.6002 : stalled 3 times (last best: 39.1235)
+[2021-08-14 02:19:32] [valid] Ep. 3077 : Up. 80000 : cross-entropy : 138.371 : stalled 6 times (last best: 137.819)
+[2021-08-14 03:05:57] [valid] Ep. 3270 : Up. 85000 : bleu : 37.8259 : stalled 4 times (last best: 39.1235)
+[2021-08-14 03:05:57] [valid] Ep. 3270 : Up. 85000 : cross-entropy : 138.492 : stalled 7 times (last best: 137.819)
+[2021-08-14 03:52:30] [valid] Ep. 3462 : Up. 90000 : bleu : 37.7386 : stalled 5 times (last best: 39.1235)
+[2021-08-14 03:52:30] [valid] Ep. 3462 : Up. 90000 : cross-entropy : 139.019 : stalled 8 times (last best: 137.819)
+[2021-08-14 04:38:51] [valid] Ep. 3654 : Up. 95000 : bleu : 37.6182 : stalled 6 times (last best: 39.1235)
+[2021-08-14 04:38:52] [valid] Ep. 3654 : Up. 95000 : cross-entropy : 139.214 : stalled 9 times (last best: 137.819)
+[2021-08-14 05:25:23] [valid] Ep. 3847 : Up. 100000 : bleu : 37.8576 : stalled 7 times (last best: 39.1235)
+[2021-08-14 05:25:23] [valid] Ep. 3847 : Up. 100000 : cross-entropy : 139.336 : stalled 10 times (last best: 137.819)
+[2021-08-14 06:11:52] [valid] Ep. 4039 : Up. 105000 : bleu : 37.4837 : stalled 8 times (last best: 39.1235)
+[2021-08-14 06:11:52] [valid] Ep. 4039 : Up. 105000 : cross-entropy : 139.324 : stalled 11 times (last best: 137.819)
+[2021-08-14 06:58:19] [valid] Ep. 4231 : Up. 110000 : bleu : 37.2098 : stalled 9 times (last best: 39.1235)
+[2021-08-14 06:58:20] [valid] Ep. 4231 : Up. 110000 : cross-entropy : 139.652 : stalled 12 times (last best: 137.819)
+[2021-08-14 07:44:42] [valid] Ep. 4424 : Up. 115000 : bleu : 37.4398 : stalled 10 times (last best: 39.1235)
+[2021-08-14 07:44:43] [valid] Ep. 4424 : Up. 115000 : cross-entropy : 139.83 : stalled 13 times (last best: 137.819)

@@ -1,0 +1,49 @@
+[2021-08-05 23:27:19] [valid] References contain unknown word, metric scores may be inaccurate
+[2021-08-05 23:27:19] [valid] [valid] First sentence's tokens as scored:
+[2021-08-05 23:27:19] [valid] DefaultVocab keeps original segments for scoring
+[2021-08-05 23:27:19] [valid] [valid]   Hyp: and you bought him and they were like incredibly incredibly incredibly cheap and if you were enough the long long time and they started enough enough enough to feel so i went so i went to my whole years old and i said
+[2021-08-05 23:27:19] [valid] [valid]   Ref: and you bought them and they fit like crap and they were incredibly uncomfortable and if you <unk> them long enough and washed them enough times they started to feel feel ok so i went to replace my jeans after years and years of wearing these old ones and i said i
+[2021-08-05 23:27:25] [valid] Ep. 186 : Up. 5000 : bleu : 34.77 : new best
+[2021-08-05 23:27:26] [valid] Ep. 186 : Up. 5000 : cross-entropy : 109.989 : new best
+[2021-08-06 00:17:20] [valid] Ep. 371 : Up. 10000 : bleu : 57.3724 : new best
+[2021-08-06 00:17:24] [valid] Ep. 371 : Up. 10000 : cross-entropy : 87.197 : new best
+[2021-08-06 01:07:09] [valid] Ep. 556 : Up. 15000 : bleu : 64.3729 : new best
+[2021-08-06 01:07:12] [valid] Ep. 556 : Up. 15000 : cross-entropy : 77.2868 : new best
+[2021-08-06 01:57:16] [valid] Ep. 741 : Up. 20000 : bleu : 68.4476 : new best
+[2021-08-06 01:57:19] [valid] Ep. 741 : Up. 20000 : cross-entropy : 71.3453 : new best
+[2021-08-06 02:47:01] [valid] Ep. 926 : Up. 25000 : bleu : 69.882 : new best
+[2021-08-06 02:47:05] [valid] Ep. 926 : Up. 25000 : cross-entropy : 68.8245 : new best
+[2021-08-06 03:37:13] [valid] Ep. 1112 : Up. 30000 : bleu : 69.9635 : new best
+[2021-08-06 03:37:16] [valid] Ep. 1112 : Up. 30000 : cross-entropy : 68.2736 : new best
+[2021-08-06 04:27:04] [valid] Ep. 1297 : Up. 35000 : bleu : 70.7012 : new best
+[2021-08-06 04:27:08] [valid] Ep. 1297 : Up. 35000 : cross-entropy : 67.3326 : new best
+[2021-08-06 05:17:12] [valid] Ep. 1482 : Up. 40000 : bleu : 70.9355 : new best
+[2021-08-06 05:17:15] [valid] Ep. 1482 : Up. 40000 : cross-entropy : 66.7124 : new best
+[2021-08-06 06:06:58] [valid] Ep. 1667 : Up. 45000 : bleu : 71.2543 : new best
+[2021-08-06 06:07:01] [valid] Ep. 1667 : Up. 45000 : cross-entropy : 65.8135 : new best
+[2021-08-06 06:57:04] [valid] Ep. 1852 : Up. 50000 : bleu : 71.358 : new best
+[2021-08-06 06:57:08] [valid] Ep. 1852 : Up. 50000 : cross-entropy : 65.7649 : new best
+[2021-08-06 07:46:52] [valid] Ep. 2038 : Up. 55000 : bleu : 71.4915 : new best
+[2021-08-06 07:46:56] [valid] Ep. 2038 : Up. 55000 : cross-entropy : 65.383 : new best
+[2021-08-06 08:36:59] [valid] Ep. 2223 : Up. 60000 : bleu : 71.7482 : new best
+[2021-08-06 08:37:02] [valid] Ep. 2223 : Up. 60000 : cross-entropy : 65.1348 : new best
+[2021-08-06 09:26:47] [valid] Ep. 2408 : Up. 65000 : bleu : 71.5728 : stalled 1 times (last best: 71.7482)
+[2021-08-06 09:26:47] [valid] Ep. 2408 : Up. 65000 : cross-entropy : 65.6309 : stalled 1 times (last best: 65.1348)
+[2021-08-06 10:16:51] [valid] Ep. 2593 : Up. 70000 : bleu : 71.5484 : stalled 2 times (last best: 71.7482)
+[2021-08-06 10:16:51] [valid] Ep. 2593 : Up. 70000 : cross-entropy : 65.3755 : stalled 2 times (last best: 65.1348)
+[2021-08-06 11:06:36] [valid] Ep. 2778 : Up. 75000 : bleu : 71.6629 : stalled 3 times (last best: 71.7482)
+[2021-08-06 11:06:36] [valid] Ep. 2778 : Up. 75000 : cross-entropy : 65.5332 : stalled 3 times (last best: 65.1348)
+[2021-08-06 11:56:44] [valid] Ep. 2963 : Up. 80000 : bleu : 71.4374 : stalled 4 times (last best: 71.7482)
+[2021-08-06 11:56:44] [valid] Ep. 2963 : Up. 80000 : cross-entropy : 65.8653 : stalled 4 times (last best: 65.1348)
+[2021-08-06 12:46:38] [valid] Ep. 3149 : Up. 85000 : bleu : 71.5761 : stalled 5 times (last best: 71.7482)
+[2021-08-06 12:46:38] [valid] Ep. 3149 : Up. 85000 : cross-entropy : 65.6469 : stalled 5 times (last best: 65.1348)
+[2021-08-06 13:36:40] [valid] Ep. 3334 : Up. 90000 : bleu : 71.513 : stalled 6 times (last best: 71.7482)
+[2021-08-06 13:36:40] [valid] Ep. 3334 : Up. 90000 : cross-entropy : 65.4912 : stalled 6 times (last best: 65.1348)
+[2021-08-06 14:26:24] [valid] Ep. 3519 : Up. 95000 : bleu : 71.5938 : stalled 7 times (last best: 71.7482)
+[2021-08-06 14:26:27] [valid] Ep. 3519 : Up. 95000 : cross-entropy : 65.0334 : new best
+[2021-08-06 15:16:32] [valid] Ep. 3704 : Up. 100000 : bleu : 71.5016 : stalled 8 times (last best: 71.7482)
+[2021-08-06 15:16:34] [valid] Ep. 3704 : Up. 100000 : cross-entropy : 64.9474 : new best
+[2021-08-06 16:06:20] [valid] Ep. 3889 : Up. 105000 : bleu : 71.7443 : stalled 9 times (last best: 71.7482)
+[2021-08-06 16:06:20] [valid] Ep. 3889 : Up. 105000 : cross-entropy : 65.2579 : stalled 1 times (last best: 64.9474)
+[2021-08-06 16:56:21] [valid] Ep. 4075 : Up. 110000 : bleu : 71.5002 : stalled 10 times (last best: 71.7482)
+[2021-08-06 16:56:21] [valid] Ep. 4075 : Up. 110000 : cross-entropy : 65.521 : stalled 2 times (last best: 64.9474)
